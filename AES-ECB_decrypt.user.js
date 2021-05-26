@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AES-ECB decrypt from .html
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  Script para la tercera tarea de Criptografía y seguridad en redes.
 // @author       Joaquín Lagos M.
 // @updateURL    https://github.com/Juax16/Tarea_3_Criptografia_2021/blob/main/AES-ECB_decrypt.user.js
