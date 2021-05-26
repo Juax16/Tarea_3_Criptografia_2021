@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  Script para la tercera tarea de Criptografía y seguridad en redes.
 // @author       Joaquín Lagos M.
-// @updateURL
-// @downloadURL
+// @updateURL    https://github.com/Juax16/Tarea_3_Criptografia_2021/blob/main/AES-ECB_decrypt.user.js
+// @downloadURL  https://github.com/Juax16/Tarea_3_Criptografia_2021/blob/main/AES-ECB_decrypt.user.js
 // @match        https://juax16.github.io/Tarea_3_Criptografia_2021/
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
