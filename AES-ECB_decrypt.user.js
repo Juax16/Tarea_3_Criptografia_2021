@@ -12,7 +12,7 @@
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js
 
 
-// ==/UserScript==
+// ==/UserScript==s
 
 (function() {
     'use strict';
