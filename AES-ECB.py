@@ -1,7 +1,7 @@
 from Crypto.Cipher import AES
-from Crypto.Random import get_random_bytes
-from Crypto.Util.Padding import pad, unpad
+from Crypto.Util.Padding import pad
 import base64
+
 
 #-------------------------
 key = "01234567890123456789012345678901" # String de 16, 24 ó 32 bytes 
